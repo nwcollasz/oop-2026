@@ -1,0 +1,15 @@
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\obj\Debug\net10.0\PostCommentEx.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\obj\Debug\net10.0\PostCommentEx.AssemblyInfoInputs.cache
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\obj\Debug\net10.0\PostCommentEx.AssemblyInfo.cs
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\obj\Debug\net10.0\PostCommentEx.csproj.CoreCompileInputs.cache
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\obj\Debug\net10.0\PostCommentEx.sourcelink.json
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\bin\Debug\net10.0\PostCommentEx.exe
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\bin\Debug\net10.0\PostCommentEx.deps.json
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\bin\Debug\net10.0\PostCommentEx.runtimeconfig.json
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\bin\Debug\net10.0\PostCommentEx.dll
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\bin\Debug\net10.0\PostCommentEx.pdb
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\obj\Debug\net10.0\PostCommentEx.dll
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\obj\Debug\net10.0\refint\PostCommentEx.dll
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\obj\Debug\net10.0\PostCommentEx.pdb
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\obj\Debug\net10.0\PostCommentEx.genruntimeconfig.cache
+F:\source\repos\cursoExercises\src\PostCommentEx\PostCommentEx\obj\Debug\net10.0\ref\PostCommentEx.dll
