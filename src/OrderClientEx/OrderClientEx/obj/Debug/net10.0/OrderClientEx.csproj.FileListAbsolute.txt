@@ -1,0 +1,15 @@
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\obj\Debug\net10.0\OrderClientEx.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\obj\Debug\net10.0\OrderClientEx.AssemblyInfoInputs.cache
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\obj\Debug\net10.0\OrderClientEx.AssemblyInfo.cs
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\obj\Debug\net10.0\OrderClientEx.csproj.CoreCompileInputs.cache
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\obj\Debug\net10.0\OrderClientEx.sourcelink.json
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\bin\Debug\net10.0\OrderClientEx.exe
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\bin\Debug\net10.0\OrderClientEx.deps.json
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\bin\Debug\net10.0\OrderClientEx.runtimeconfig.json
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\bin\Debug\net10.0\OrderClientEx.dll
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\bin\Debug\net10.0\OrderClientEx.pdb
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\obj\Debug\net10.0\OrderClientEx.dll
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\obj\Debug\net10.0\refint\OrderClientEx.dll
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\obj\Debug\net10.0\OrderClientEx.pdb
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\obj\Debug\net10.0\OrderClientEx.genruntimeconfig.cache
+F:\source\repos\cursoExercises\src\OrderClientEx\OrderClientEx\obj\Debug\net10.0\ref\OrderClientEx.dll
