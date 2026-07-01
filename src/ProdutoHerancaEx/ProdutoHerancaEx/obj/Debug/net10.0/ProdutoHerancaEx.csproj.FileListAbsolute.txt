@@ -1,0 +1,15 @@
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\bin\Debug\net10.0\ProdutoHerancaEx.exe
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\bin\Debug\net10.0\ProdutoHerancaEx.deps.json
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\bin\Debug\net10.0\ProdutoHerancaEx.runtimeconfig.json
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\bin\Debug\net10.0\ProdutoHerancaEx.dll
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\bin\Debug\net10.0\ProdutoHerancaEx.pdb
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\obj\Debug\net10.0\ProdutoHerancaEx.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\obj\Debug\net10.0\ProdutoHerancaEx.AssemblyInfoInputs.cache
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\obj\Debug\net10.0\ProdutoHerancaEx.AssemblyInfo.cs
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\obj\Debug\net10.0\ProdutoHerancaEx.csproj.CoreCompileInputs.cache
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\obj\Debug\net10.0\ProdutoHerancaEx.sourcelink.json
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\obj\Debug\net10.0\ProdutoHerancaEx.dll
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\obj\Debug\net10.0\refint\ProdutoHerancaEx.dll
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\obj\Debug\net10.0\ProdutoHerancaEx.pdb
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\obj\Debug\net10.0\ProdutoHerancaEx.genruntimeconfig.cache
+F:\source\repos\cursoExercises\src\ProdutoHerancaEx\ProdutoHerancaEx\obj\Debug\net10.0\ref\ProdutoHerancaEx.dll
