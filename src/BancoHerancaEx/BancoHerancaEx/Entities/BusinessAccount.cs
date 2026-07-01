@@ -1,6 +1,6 @@
-using BancoHeranca.Entities;
+using BancoHerancaEx.Entities;
 
-namespace BancoHeranca.Entities
+namespace BancoHerancaEx.Entities
 {
     public class BusinessAccount : Account
     {

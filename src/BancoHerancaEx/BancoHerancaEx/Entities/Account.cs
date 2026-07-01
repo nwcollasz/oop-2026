@@ -1,4 +1,4 @@
-namespace BancoInheritance.Entities
+namespace BancoHerancaEx.Entities
 {
     public class Account
     {
@@ -17,9 +17,9 @@ namespace BancoInheritance.Entities
             Balance = balance;
         }
 
-        public void Withdrawl(double amount)
+        public virtual void Withdraw(double amount)
         {
-            Balance -= amount;
+            Balance -= amount + 5.0;
         }
 
         public void Deposit(double amount)

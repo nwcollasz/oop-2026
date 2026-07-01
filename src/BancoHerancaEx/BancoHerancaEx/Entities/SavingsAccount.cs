@@ -1,4 +1,4 @@
-namespace BancoHeranca.Entities
+namespace BancoHerancaEx.Entities
 {
         public class SavingsAccount : Account
     {
@@ -18,6 +18,12 @@ namespace BancoHeranca.Entities
         public void UpdateBalance()
         {
             Balance += Balance * InterestRate;
+        }
+
+        public override void Withdraw(double amount)
+        {
+            base.Withdraw(amount);
+            Balance -= 2.0;
         }
     }
 }
