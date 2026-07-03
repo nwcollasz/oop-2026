@@ -1,0 +1,15 @@
+F:\source\repos\cursoExercises\src\ContaExceptionEx\obj\Debug\net10.0\ContaExceptionEx.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\cursoExercises\src\ContaExceptionEx\obj\Debug\net10.0\ContaExceptionEx.AssemblyInfoInputs.cache
+F:\source\repos\cursoExercises\src\ContaExceptionEx\obj\Debug\net10.0\ContaExceptionEx.AssemblyInfo.cs
+F:\source\repos\cursoExercises\src\ContaExceptionEx\obj\Debug\net10.0\ContaExceptionEx.csproj.CoreCompileInputs.cache
+F:\source\repos\cursoExercises\src\ContaExceptionEx\obj\Debug\net10.0\ContaExceptionEx.sourcelink.json
+F:\source\repos\cursoExercises\src\ContaExceptionEx\bin\Debug\net10.0\ContaExceptionEx.exe
+F:\source\repos\cursoExercises\src\ContaExceptionEx\bin\Debug\net10.0\ContaExceptionEx.deps.json
+F:\source\repos\cursoExercises\src\ContaExceptionEx\bin\Debug\net10.0\ContaExceptionEx.runtimeconfig.json
+F:\source\repos\cursoExercises\src\ContaExceptionEx\bin\Debug\net10.0\ContaExceptionEx.dll
+F:\source\repos\cursoExercises\src\ContaExceptionEx\bin\Debug\net10.0\ContaExceptionEx.pdb
+F:\source\repos\cursoExercises\src\ContaExceptionEx\obj\Debug\net10.0\ContaExceptionEx.dll
+F:\source\repos\cursoExercises\src\ContaExceptionEx\obj\Debug\net10.0\refint\ContaExceptionEx.dll
+F:\source\repos\cursoExercises\src\ContaExceptionEx\obj\Debug\net10.0\ContaExceptionEx.pdb
+F:\source\repos\cursoExercises\src\ContaExceptionEx\obj\Debug\net10.0\ContaExceptionEx.genruntimeconfig.cache
+F:\source\repos\cursoExercises\src\ContaExceptionEx\obj\Debug\net10.0\ref\ContaExceptionEx.dll
