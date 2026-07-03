@@ -1,6 +1,6 @@
-﻿using BancoHerancaEx.Entities;
+﻿using Banco2Ex.Entities;
 
-    namespace BancoHerancaEx
+    namespace Banco2Ex
     {   
         class Program
         {

@@ -1,4 +1,4 @@
-namespace WorkerComposition.Entities.Enums
+namespace WorkerEx.Entities.Enums
 {
     public enum WorkerLevel // enumeracao para definir os niveis do worker
     {

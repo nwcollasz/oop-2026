@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\banco2-ex\\BancoHerancaEx.csproj",
-      "projectName": "BancoHerancaEx",
-      "projectPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\banco2-ex\\BancoHerancaEx.csproj",
+      "projectUniqueName": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\banco2-ex\\Banco2Ex.csproj",
+      "projectName": "Banco2Ex",
+      "projectPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\banco2-ex\\Banco2Ex.csproj",
       "packagesPath": "C:\\Users\\Nicollas\\.nuget\\packages\\",
       "outputPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\banco2-ex\\obj\\",
       "projectStyle": "PackageReference",

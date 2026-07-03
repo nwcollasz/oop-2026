@@ -2,7 +2,7 @@
 using System;
 using System.Globalization;
 
-namespace RetanguloProj
+namespace RetanguloEx
 {
     internal class Program
     {

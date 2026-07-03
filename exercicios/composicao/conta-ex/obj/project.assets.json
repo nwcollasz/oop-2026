@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\conta-ex\\ContaExceptionEx.csproj",
-      "projectName": "ContaExceptionEx",
-      "projectPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\conta-ex\\ContaExceptionEx.csproj",
+      "projectUniqueName": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\conta-ex\\ContaEx.csproj",
+      "projectName": "ContaEx",
+      "projectPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\conta-ex\\ContaEx.csproj",
       "packagesPath": "C:\\Users\\Nicollas\\.nuget\\packages\\",
       "outputPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\conta-ex\\obj\\",
       "projectStyle": "PackageReference",

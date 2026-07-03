@@ -1,4 +1,4 @@
-namespace EmpresaHerancaEx.Entities
+namespace EmpresaEx.Entities
 {
     public class Employee
     {

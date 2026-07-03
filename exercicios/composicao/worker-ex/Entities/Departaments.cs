@@ -1,4 +1,4 @@
-namespace WorkerComposition.Entities
+namespace WorkerEx.Entities
 {
     public class Departaments
     {

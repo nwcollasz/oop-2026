@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\empresa-ex\\EmpresaHerancaEx.csproj",
-      "projectName": "EmpresaHerancaEx",
-      "projectPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\empresa-ex\\EmpresaHerancaEx.csproj",
+      "projectUniqueName": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\empresa-ex\\EmpresaEx.csproj",
+      "projectName": "EmpresaEx",
+      "projectPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\empresa-ex\\EmpresaEx.csproj",
       "packagesPath": "C:\\Users\\Nicollas\\.nuget\\packages\\",
       "outputPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\empresa-ex\\obj\\",
       "projectStyle": "PackageReference",

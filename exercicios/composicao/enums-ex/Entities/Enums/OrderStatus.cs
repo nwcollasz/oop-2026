@@ -1,4 +1,4 @@
-namespace EnumEx.Entities.Enums
+namespace EnumsEx.Entities.Enums
 {
     public enum OrderStatus : int // : é uma herança, ou seja, o tipo do enum é int, mas poderia ser byte, char, etc.
     {

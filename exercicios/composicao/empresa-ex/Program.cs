@@ -1,7 +1,7 @@
-﻿using EmpresaHerancaEx.Entities;
+﻿using EmpresaEx.Entities;
 using System;
 
-namespace EmpresaHerancaEx
+namespace EmpresaEx
 {
     class Program
     {

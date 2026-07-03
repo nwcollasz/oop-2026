@@ -1,4 +1,4 @@
-namespace BancoHerancaEx.Entities
+namespace Banco2Ex.Entities
 {
     public class Account
     {

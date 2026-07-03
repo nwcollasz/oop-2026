@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
-using WorkerComposition.Entities;
-using WorkerComposition.Entities.Enums;
+using WorkerEx.Entities;
+using WorkerEx.Entities.Enums;
 
 Console.Write("Enter department's name: ");
 string dtName = Console.ReadLine();

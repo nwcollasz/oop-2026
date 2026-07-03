@@ -1,6 +1,6 @@
-using ContaExceptionEx.Entities.Exceptions;
+using ContaEx.Entities.Exceptions;
 
-namespace ContaExceptionEx.Entities
+namespace ContaEx.Entities
 {
     public class Account
     {

@@ -1,4 +1,4 @@
-namespace ProdutoHerancaEx.Entities
+namespace ProdutoEx.Entities
 {
     public class Product
     {

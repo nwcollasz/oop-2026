@@ -1,7 +1,7 @@
-﻿using EnumEx.Entities;
-using EnumEx.Entities.Enums;
+﻿using EnumsEx.Entities;
+using EnumsEx.Entities.Enums;
 
-namespace EnumEx
+namespace EnumsEx
 {
     class Program
     {

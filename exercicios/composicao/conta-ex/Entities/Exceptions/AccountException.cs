@@ -1,7 +1,7 @@
 using System;
-using ContaExceptionEx.Entities.Exceptions;
+using ContaEx.Entities.Exceptions;
 
-namespace ContaExceptionEx.Entities.Exceptions
+namespace ContaEx.Entities.Exceptions
 {
     public class AccountException : ApplicationException
     {

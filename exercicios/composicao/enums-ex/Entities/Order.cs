@@ -1,7 +1,7 @@
 using System;
-using EnumEx.Entities.Enums;
+using EnumsEx.Entities.Enums;
 
-namespace EnumEx.Entities
+namespace EnumsEx.Entities
 {
     public class Order
     {

@@ -1,5 +1,5 @@
 ﻿using System.Globalization;
-namespace Course
+namespace EstoqueEx
 {
     class Produto
     {

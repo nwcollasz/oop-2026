@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MatrizEx
+namespace Matriz2Ex
 {
     class Program
     {

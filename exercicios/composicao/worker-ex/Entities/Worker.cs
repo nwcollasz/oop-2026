@@ -1,7 +1,7 @@
 using WorkerComposition.Entities.Enums;
 using System.Collections.Generic;
 
-namespace WorkerComposition.Entities
+namespace WorkerEx.Entities
 {
     public class Worker
     {

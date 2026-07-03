@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\produto-ex\\ProdutoHerancaEx.csproj",
-      "projectName": "ProdutoHerancaEx",
-      "projectPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\produto-ex\\ProdutoHerancaEx.csproj",
+      "projectUniqueName": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\produto-ex\\ProdutoEx.csproj",
+      "projectName": "ProdutoEx",
+      "projectPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\produto-ex\\ProdutoEx.csproj",
       "packagesPath": "C:\\Users\\Nicollas\\.nuget\\packages\\",
       "outputPath": "F:\\source\\repos\\cursoUdemy\\exercicios\\composicao\\produto-ex\\obj\\",
       "projectStyle": "PackageReference",

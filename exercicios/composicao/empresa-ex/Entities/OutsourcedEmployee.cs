@@ -1,6 +1,6 @@
-namespace EmpresaHerancaEx.Entities
+namespace EmpresaEx.Entities
 {
-    class OutsourcedEmployee : Employee
+    public class OutsourcedEmployee : Employee
     {
         public double AdditionalCharge { get; set; }
 

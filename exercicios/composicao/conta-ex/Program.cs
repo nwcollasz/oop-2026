@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Globalization;
-using ContaExceptionEx.Entities;
+using ContaEx.Entities;
+using ContaEx.Entities.Exceptions;
 
-namespace ContaExceptionEx
+namespace ContaEx
 {
     class Program
     {
