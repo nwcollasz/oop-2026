@@ -1,0 +1,15 @@
+F:\source\repos\cursoExercises\src\ImpostoEx\bin\Debug\net10.0\ImpostoEx.exe
+F:\source\repos\cursoExercises\src\ImpostoEx\bin\Debug\net10.0\ImpostoEx.deps.json
+F:\source\repos\cursoExercises\src\ImpostoEx\bin\Debug\net10.0\ImpostoEx.runtimeconfig.json
+F:\source\repos\cursoExercises\src\ImpostoEx\bin\Debug\net10.0\ImpostoEx.dll
+F:\source\repos\cursoExercises\src\ImpostoEx\bin\Debug\net10.0\ImpostoEx.pdb
+F:\source\repos\cursoExercises\src\ImpostoEx\obj\Debug\net10.0\ImpostoEx.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\cursoExercises\src\ImpostoEx\obj\Debug\net10.0\ImpostoEx.AssemblyInfoInputs.cache
+F:\source\repos\cursoExercises\src\ImpostoEx\obj\Debug\net10.0\ImpostoEx.AssemblyInfo.cs
+F:\source\repos\cursoExercises\src\ImpostoEx\obj\Debug\net10.0\ImpostoEx.csproj.CoreCompileInputs.cache
+F:\source\repos\cursoExercises\src\ImpostoEx\obj\Debug\net10.0\ImpostoEx.sourcelink.json
+F:\source\repos\cursoExercises\src\ImpostoEx\obj\Debug\net10.0\ImpostoEx.dll
+F:\source\repos\cursoExercises\src\ImpostoEx\obj\Debug\net10.0\refint\ImpostoEx.dll
+F:\source\repos\cursoExercises\src\ImpostoEx\obj\Debug\net10.0\ImpostoEx.pdb
+F:\source\repos\cursoExercises\src\ImpostoEx\obj\Debug\net10.0\ImpostoEx.genruntimeconfig.cache
+F:\source\repos\cursoExercises\src\ImpostoEx\obj\Debug\net10.0\ref\ImpostoEx.dll
