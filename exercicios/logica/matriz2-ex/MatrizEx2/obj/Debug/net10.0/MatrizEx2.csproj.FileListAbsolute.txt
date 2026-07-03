@@ -1,0 +1,14 @@
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\bin\Debug\net10.0\MatrizEx2.exe
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\bin\Debug\net10.0\MatrizEx2.deps.json
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\bin\Debug\net10.0\MatrizEx2.runtimeconfig.json
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\bin\Debug\net10.0\MatrizEx2.dll
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\bin\Debug\net10.0\MatrizEx2.pdb
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\obj\Debug\net10.0\MatrizEx2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\obj\Debug\net10.0\MatrizEx2.AssemblyInfoInputs.cache
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\obj\Debug\net10.0\MatrizEx2.AssemblyInfo.cs
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\obj\Debug\net10.0\MatrizEx2.csproj.CoreCompileInputs.cache
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\obj\Debug\net10.0\MatrizEx2.dll
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\obj\Debug\net10.0\refint\MatrizEx2.dll
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\obj\Debug\net10.0\MatrizEx2.pdb
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\obj\Debug\net10.0\MatrizEx2.genruntimeconfig.cache
+F:\Backup Automatico\Desktop\C#\temp\projetosCurso\MatrizEx2\MatrizEx2\obj\Debug\net10.0\ref\MatrizEx2.dll
