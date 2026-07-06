@@ -25,5 +25,5 @@ namespace paypal_ex.Services
                 contract.Installments.Add(new Installments(dueDate, fullQuota));
             }
         }
-    }
+    }   
 }
