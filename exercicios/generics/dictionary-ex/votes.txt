@@ -1,0 +1,7 @@
+amanda,14
+alex,10
+bob,13
+amanda,21
+jeniffer,19
+alex,9
+amanda,11
