@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using linq1_ex.Entities;
+using linq2_ex.Entities;
 using System.Collections.Generic;
 
         static void Print<T>(string message, IEnumerable<T> collection) {
