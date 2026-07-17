@@ -1,0 +1,15 @@
+Maria,maria@empresa.com.br,3250.00
+Alex,alex.dev@gmail.com,1950.00
+Marco,marco.vendas@hotmail.com,1700.00
+Bob,bob.tech@outlook.com,3550.00
+Anna,anna@empresa.com.br,2850.00
+Carlos,carlos@yahoo.com,4100.00
+Julia,julia.dev@empresa.com.br,5200.00
+Pedro,pedro@gmail.com,1500.00
+Lucas,lucas@hotmail.com,2200.00
+Fernanda,fernanda@outlook.com,3100.00
+Rafael,rafael.qa@empresa.com.br,2750.00
+Camila,camila@gmail.com,1850.00
+Bruno,bruno@yahoo.com,4800.00
+Amanda,amanda.hr@empresa.com.br,3300.00
+Diego,diego@hotmail.com,1990.00
