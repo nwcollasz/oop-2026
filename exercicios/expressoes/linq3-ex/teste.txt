@@ -1,0 +1,10 @@
+Tv,900.00
+Mouse,50.00
+Tablet,350.50
+HD Case,80.90
+Computer,850.00
+Monitor,290.00
+Keyboard,120.00
+Smartwatch,150.25
+Notebook Gamer,4200.00
+Smartphone Premium,3150.00
